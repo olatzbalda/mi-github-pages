@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Tu título genial
+author: Usuario GitHub
+email: tu-email@dominio.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Escribe aquí una descripción genial para tu nuevo sitio. Puedes editar
+  esta línea en _config.yml. Aparecerá en la metainformación de cabecera
+  de tu documento (para los resultados de búsqueda de Google) y en la
+  descripción de tu sitio en feed.xml.
 
-# social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+# links a redes sociales
+twitter_username: tu-usuario-de-twitter
+github_username:  tu-usuario-de-github
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true # pon false para no mostrar los extractos en la página principal
